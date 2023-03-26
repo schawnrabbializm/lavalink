@@ -1,4 +1,4 @@
-## lavalink-railways
+## Lavalink
 
 ### Uyarı
 KENDİ RİSKİNİZDE KULLANIN, HERHANGİ BİR SORUMLULUK KABUL ETMİYORUM.
@@ -15,10 +15,3 @@ Lavalink, railway bölgesinde (yeri engellenmişse) telif hakkı sahibi içerikl
 - `secure` seçeneklerini kullanın
 
 
-
-
-
-
-[![Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fschawnrabbializm%2Flavalink)
-<br>
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/schawnrabbializm/lavalink)
