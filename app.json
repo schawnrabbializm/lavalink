@@ -1,0 +1,12 @@
+{
+    "name": "Lavalink",
+    "description": "schawn lavalink",
+    "logo": "https://media.discordapp.net/attachments/1089573055250047159/1089584735413600347/schawncat.jpg?width=436&height=436",
+    "repository": "https://github.com/KagChi/lavalink",
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
